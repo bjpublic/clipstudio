@@ -1,1 +1,1 @@
-# clipstudio
+# CLIP STUDIO PAINT 가이드북
